@@ -1,4 +1,4 @@
 # Mental-Fitness-Tracker
-Welcome to the Mental Fitness Tracker! This project was created during an internship at IBM as a tool to help individuals track and improve their mental well-being. In today's fast-paced world, taking care of our mental health is crucial, and this tracker aims to provide a convenient way to monitor your emotions, moods, and overall mental fitness.
+Welcome to the Mental Fitness Tracker! This project was created during an internship at IBM as a tool that utilizes advanced data analytics and artificial intelligence to analyze and predict the mental fitness level of individuals from diverse countries, each grappling with different mental disorders.
 
 The dataset used in this Mental fitness Tracker is taken from https://skillsbuild.edunetworld.com/courses/ai/mental-fitness-tracker provided by IBM.
